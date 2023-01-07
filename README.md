@@ -1,4 +1,7 @@
-<h1> TeamBall 🏆</h1>
+# TeamBall 🏆
+
+[![Java](https://img.shields.io/badge/java-latest-yellow)](https://www.java.com/)
+[![Android](https://img.shields.io/badge/android-latest-green)](https://www.android.com/)
 
 <h3> TeamBall is a sports team communication and an open-source app for Android devices.</h3>
 
